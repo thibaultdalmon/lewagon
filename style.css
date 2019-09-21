@@ -66,9 +66,21 @@ a:hover {
   box-shadow: 0 4px 6px rgba(50,50,93,.11);
   padding: 16px;
   margin: 16px 0px;
+  height: 440px;
 }
 .tile img {
   margin-bottom: 20px;
+}
+
+.banner-2 {
+  background-color: #6A71E1;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 24px;
+  margin: 16px 0px;
+  color: white;
+  font-weight: bolder;
 }
 
 .footer {
